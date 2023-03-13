@@ -6,4 +6,6 @@
 
 <p>Here you can find some of my solutions on HackerRank</p>
 <p>The majority of the solutions are written in Python3</p>
+<p>If you like the repository, please give it a star</p>
+<p>Best regards</p>
 <p>You can also access the website @ <a href="https://www.hackerrank.com/">hackerrank.com</a>
